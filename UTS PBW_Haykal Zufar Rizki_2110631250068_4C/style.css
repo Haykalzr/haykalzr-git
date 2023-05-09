@@ -1,0 +1,52 @@
+* {
+    font-family: 'Poppins';
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-toggler-icon    {
+    color: blue;
+}
+
+nav a:hover{
+    font-weight: bold;
+}
+
+#sabout{
+    text-align: center;
+}
+
+#logoric-about{
+    margin-left: 80px;
+}
+
+#about-teks
+{
+    margin-top: 60px;
+    margin-right: 100px;
+    font-size: 1000;
+    text-align: center;
+}
+
+#sblog{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.card{
+    border-radius: 5px;
+    margin: 15px;
+}
+
+#teks-contactus{
+    margin-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+#futer{
+    margin-bottom: 2px;
+}
